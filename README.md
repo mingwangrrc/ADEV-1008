@@ -1,7 +1,7 @@
 # ADEV-1008 Individual Assignments Repository
 
 ## Introduction
-Welcome to the ADEV-2008 Assignments Repository. This repository contains a selection of assignments 1-7 from the RRC ADEV-1008 course. These assignments are shared to provide insights and understanding into the course structure and expectations.
+Welcome to the ADEV-1008 Assignments Repository. This repository contains a selection of assignments 1-7 from the RRC ADEV-1008 course. These assignments are shared to provide insights and understanding into the course structure and expectations.
 
 ## Important Notes
 - **For Review and Understanding Only**: The codes in this repository are intended for review purposes and to give a basic idea of how the assignments are structured. They are not meant to be copied directly for your assignments.
