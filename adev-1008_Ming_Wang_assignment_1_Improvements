@@ -1,1 +1,133 @@
+Q48 Killograms to Pounds Improvements:
 
+/*
+* Name: Ming Wang
+* Program: Business Information Technology
+* Course: ADEV-1008 Programming 1
+* Created: 2023-01-10
+* Updated: 2023-01-27
+*/
+public class KilogramstoPounds {
+
+	public static void main(String[] args) {
+		
+		//constant for the kilogram to pound conversion
+		final double POUND = 0.454;
+
+		int Kilograms1 = 10;
+
+		int Kilograms2 = 50;
+
+		int Kilograms3= 100;
+	
+		double KilogramstoPounds1 = Kilograms1/POUND;
+
+		double KilogramstoPounds2 = Kilograms2/POUND;
+
+		double KilogramstoPounds3 = Kilograms3/POUND;
+
+	System.out.println( "10 kilograms is: " + KilogramstoPounds1 + " pounds" );
+
+	System.out.println( "50 kilograms is: " + KilogramstoPounds2 + " pounds" );
+
+	System.out.println( "100 kilograms is: " + KilogramstoPounds3 + " pounds" );
+}
+
+}
+
+
+
+
+Q48 Killograms to Pounds initial
+
+/*
+* Name: Ming Wang
+* Program: Business Information Technology
+* Course: ADEV-1008 Programming 1
+* Created: 2023-01-10
+* Updated: 2023-01-13
+*/
+public class KilogramstoPounds {
+
+	public static void main(String[] args) {
+
+		double lb = 0.454;
+
+		int kg1 = 10;
+
+		int kg2 = 50;
+
+		int kg3 = 100;
+	
+		double KilogramstoPounds1 = kg1/lb;
+
+		double KilogramstoPounds2 = kg2/lb;
+
+		double KilogramstoPounds3 = kg3/lb;
+
+	System.out.println( "10 kilograms is: " + KilogramstoPounds1 + " pounds" );
+
+	System.out.println( "50 kilograms is: " + KilogramstoPounds2 + " pounds" );
+
+	System.out.println( "100 kilograms is: " + KilogramstoPounds3 + " pounds" );
+}
+
+}
+
+
+
+
+Q50 Circuference Improvements
+
+/*
+* Name: Ming Wang
+* Program: Business Information Technology
+* Course: ADEV-1008 Programming 1
+* Created: 2023-01-10
+* Updated: 2023-01-20
+*/
+public class Circumference{
+
+    public static void main(String[] args) 
+    {
+        
+        final double PI= 3.14;
+    
+        double radius= 3.2;
+    
+        double Circumference = PI*2*radius;
+
+
+    
+    System.out.println ( "The circumference of a circle with a radius of 3.2 is " + Circumference);
+          
+    }
+    
+    }
+
+
+Q50 Circuference initial
+
+/*
+* Name: Ming Wang
+* Program: Business Information Technology
+* Course: ADEV-1008 Programming 1
+* Created: 2023-01-10
+* Updated: 2023-01-27
+*/
+public class Circumference{
+
+    public static void main(String[] args) 
+    {
+        //PI should be a constant
+        final double PI = 3.14;
+        
+        double radius= 3.2;
+    
+        double Circumference = PI*2*radius;
+    
+    System.out.println ( "The circumference of a circle with a radius of 3.2 is " + Circumference);
+          
+    }
+    
+    }
