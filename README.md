@@ -1,12 +1,16 @@
 # ADEV-1008 Individual Assignments Repository
 
 ## Introduction
-Welcome to the ADEV-1008 Individual Assignments Repository. This repository contains a collection of individual assignments from the ADEV-1008 course. The primary purpose of sharing these codes is to provide a basic understanding and a starting point for students who are currently taking or interested in the course.
+Welcome to the ADEV-2008 Assignments Repository. This repository contains a selection of assignments 1-7 from the RRC ADEV-1008 course. These assignments are shared to provide insights and understanding into the course structure and expectations.
 
 ## Important Notes
-- **For Review and Understanding Only**: The codes in this repository are for review purposes and to provide a basic idea of how assignments might be structured. They are not meant to be copied directly for your assignments.
-- **Academic Integrity**: Please adhere to your institution's academic integrity policy when using this repository. Directly copying code for your assignments can lead to serious academic consequences.
-- **Updates and Accuracy**: While effort is made to keep the repository up-to-date, the owner does not guarantee the accuracy or completeness of the code.
+- **For Review and Understanding Only**: The codes in this repository are intended for review purposes and to give a basic idea of how the assignments are structured. They are not meant to be copied directly for your assignments.
+- **Academic Integrity**: It's crucial to adhere to your institution's academic integrity policy when utilizing this repository. Directly copying code for your assignments can result in severe academic consequences.
+
+## Disclaimer
+- The information and code in this repository are provided for educational purposes only. The owner of this repository does not condone plagiarism or academic dishonesty.
+- **I do not take any responsibility if copying my code leads to academic issues, including receiving a grade of 0 or other sanctions.** It's your responsibility to use these resources ethically and within the guidelines of your academic institution.
+- While effort is made to keep the repository up-to-date, the owner does not guarantee the accuracy or completeness of the code.
 
 ## Repository Structure
 Each directory within this repository corresponds to a specific assignment from the ADEV-1008 course. Inside, you'll find the code files along with a brief description of the assignment.
